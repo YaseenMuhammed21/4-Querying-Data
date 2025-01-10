@@ -7,7 +7,6 @@ SQL provides a powerful set of tools to filter, sort, and manipulate data based 
 - **SELECT**: Specifies the columns to retrieve.
 - **FROM**: Specifies the table(s) from which to retrieve data.
 - **WHERE**: Filters the data based on conditions.
-- **ORDER BY**: Sorts the data.
 - **IN, BETWEEN, LIKE**: Provides more specific filtering.
 
 #### These are some of the key operations to query data in SQL. Depending on your needs, you can combine these clauses to create more complex queries.
